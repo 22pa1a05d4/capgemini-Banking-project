@@ -26,11 +26,8 @@ def dim_customers():
         "kyc_status",
         "is_active",
 
-        # Home location
         "home_country",
         "home_city",
-
-        # Account dates
         "account_opening_date"
     )
 
